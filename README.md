@@ -1,15 +1,9 @@
 # AI-FARM
+
 <!-- wp:image {"id":509} -->
 <figure class="wp-block-image"><img src="https://hirenlalani.files.wordpress.com/2020/12/thesmartgardeningproject_201205_191133_1.jpg" alt="" class="wp-image-509"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":511} -->
-<figure class="wp-block-image"><img src="https://hirenlalani.files.wordpress.com/2020/12/thesmartgardeningproject_201205_191133_2.jpg" alt="" class="wp-image-511"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":512} -->
-<figure class="wp-block-image"><img src="https://hirenlalani.files.wordpress.com/2020/12/thesmartgardeningproject_201205_191133_3.jpg" alt="" class="wp-image-512"/></figure>
-<!-- /wp:image -->
 
 <!-- wp:image {"id":510} -->
 <figure class="wp-block-image"><img src="https://hirenlalani.files.wordpress.com/2020/12/thesmartgardeningproject_201205_191133_4.jpg" alt="" class="wp-image-510"/></figure>
