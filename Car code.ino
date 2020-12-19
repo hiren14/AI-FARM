@@ -41,6 +41,7 @@ char auth[] = "ynY7DXLr7y7vSSh4Amvfys11V_Obp6kU";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
+//code by hiren lalani 
 char ssid[] = "Sangeeta";
 char pass[] = "12345678";
 
